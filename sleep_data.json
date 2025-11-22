@@ -1,0 +1,60 @@
+{
+  "questions": [
+    {
+      "id": "L1",
+      "text": "Butuh waktu lebih dari 30 menit untuk bisa tertidur?",
+      "dimensi": "Latensi",
+      "bobot": 5,
+      "saran": "Gunakan teknik relaksasi 4-7-8 sebelum tidur."
+    },
+    {
+      "id": "L2",
+      "text": "Pikiran sering cemas/overthinking saat memejamkan mata?",
+      "dimensi": "Latensi",
+      "bobot": 5,
+      "saran": "Lakukan 'Brain Dump' (menulis pikiran di kertas) agar otak tenang."
+    },
+    {
+      "id": "D1",
+      "text": "Total tidur kurang dari 6 jam sehari?",
+      "dimensi": "Durasi",
+      "bobot": 5,
+      "saran": "Tubuh butuh minimal 7 jam untuk regenerasi sel."
+    },
+    {
+      "id": "D2",
+      "text": "Jam tidur berubah-ubah (tidak konsisten)?",
+      "dimensi": "Durasi",
+      "bobot": 4,
+      "saran": "Atur alarm tidur yang sama setiap hari untuk memperbaiki ritme tubuh."
+    },
+    {
+      "id": "G1",
+      "text": "Sering terbangun tengah malam dan susah tidur lagi?",
+      "dimensi": "Gangguan",
+      "bobot": 5,
+      "saran": "Cek suhu kamar (ideal 18-22°C) dan pastikan gelap total."
+    },
+    {
+      "id": "G2",
+      "text": "Mendengkur keras atau tersedak saat tidur?",
+      "dimensi": "Gangguan",
+      "bobot": 10,
+      "saran": "⚠️ Risiko Sleep Apnea. Segera konsultasi dokter THT."
+    },
+    {
+      "id": "H1",
+      "text": "Main HP/Gadget tepat sebelum tidur?",
+      "dimensi": "Higiene",
+      "bobot": 4,
+      "saran": "Stop gadget 1 jam sebelum tidur (Blue light menekan melatonin)."
+    },
+    {
+      "id": "H2",
+      "text": "Minum kopi/teh setelah jam 2 siang?",
+      "dimensi": "Higiene",
+      "bobot": 4,
+      "saran": "Kafein bertahan 8 jam di darah. Hindari di sore hari."
+    }
+  ]
+}
